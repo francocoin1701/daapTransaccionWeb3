@@ -71,3 +71,9 @@ window.onload = ()=>{
     form.onsubmit = transaccion
 
 }
+/*
+nota
+los errores cometidos en el desarrollo de esta dapp fueron que escribi mal la palabra method pues la escribi
+sin h y este error no se me mostraba directamente o almenos no lo entendia tambien que no coloque el metodo preventDefault 
+para poder evitar que al dar click en el boton enviar la pagina se recargue. 
+*/
